@@ -1,0 +1,21 @@
+h2{
+    color: blue;
+    margin-right: 0px;
+}
+body{
+    color: black;
+    background-color: orangered;
+}
+p{
+    color: white;
+}
+label{
+    margin-right: 100px;
+    justify-content: center;
+}
+form{
+    margin-right: 70px;
+    justify-content: center;
+    color: black;
+    margin-left: 100px;
+}

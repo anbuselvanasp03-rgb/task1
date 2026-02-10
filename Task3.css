@@ -1,0 +1,26 @@
+h1{
+    color: hwb(30 4% 95%);
+}
+h2{
+    color: royalblue;
+}
+h3{
+    color: darkred;
+}
+body{
+    background-color:rgb(139, 138, 138)
+}
+img{
+    display: block;
+    margin:  auto;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    color: orangered;
+    background-color:mistyrose;
+}
+label{
+    color:darkred burlywood;
+}
